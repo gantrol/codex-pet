@@ -4,7 +4,13 @@
 
 ### pingo
 
-![pingo](../pets/pingo/00.png)
+![pingo](./pets/pingo/00.png)
+
+### mimi
+
+A cute cat
+
+![mimi](./pets/mimi/mimi.png)
 
 ## skills
 
