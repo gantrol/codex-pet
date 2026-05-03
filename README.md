@@ -15,3 +15,11 @@
 - pixel-style
 - must have a character
 - use script for transparent background
+
+## Codex
+
+Input `/hatch-pet` for creating your own pets
+
+Follow the picture below for change pets.
+
+![change pets](./assets/how-to-change-pets.png)
