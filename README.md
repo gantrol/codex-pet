@@ -1,6 +1,12 @@
 # codex-pet
 
+Not perfert, just enough.
+
 ## pets
+
+### codex girl
+
+![codex-girl](./pets/codexa/codex-girl.png)
 
 ### pingo
 
