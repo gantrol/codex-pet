@@ -30,7 +30,7 @@ A cute cat
 
 ## Codex
 
-Input `/hatch-pet` for creating your own pets
+For creating your own pets, install `Hatch Pet` Skill for Plugins, and then input `/hatch` in codex chatbox.
 
 Follow the picture below for change pets.
 
